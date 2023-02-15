@@ -1,0 +1,1 @@
+This is a helper and starter for TypeScript on Fastly Compute@Edge!
